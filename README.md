@@ -16,8 +16,7 @@ Welcome to my personal portfolio project! This project was created as a part of 
 This personal portfolio website is designed to provide a comprehensive view of my professional experience, skills, and projects. It serves as a digital resume that potential employers and collaborators can use to learn more about me.
 
 
-
-https://github.com/Poojasrisunkara/CODSOFT/assets/165466759/17319a82-a1d8-46a7-ac57-6974d89386da
+https://github.com/Poojasrisunkara/PRODIGY_WD_04/assets/165466759/39eee7a3-6cad-4e0e-b29e-7b33083e259e
 
 
 ## Features
